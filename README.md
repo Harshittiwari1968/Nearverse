@@ -32,7 +32,7 @@ Players can move around a shared map, meet other nearby players, and interact us
 ---
 
 ## 🤝 Contributing
-Currently developed by **Harshit Tiwari** and **Puthar (AI collaborator)**.  
+Currently developed by **Harshit Tiwari** , **Harshit Singh** , **Hardik Chaurasia** , **Divyanshu Kashyap**.  
 External contributions will be considered after MVP launch.
 
 ---
